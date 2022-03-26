@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ReUsables</string>
+    <string name="selected" translatable="false">%s page is selected</string>
+</resources>
